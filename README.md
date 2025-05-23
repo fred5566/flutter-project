@@ -1,16 +1,28 @@
-# roll_dice
+# 🎲 Roll Dice App
 
-A new Flutter project.
+A simple Flutter app that simulates rolling a dice with animation and displays the result visually.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Roll a 6-sided dice
+- Animated dice face
+- Clean and responsive UI
+- Built entirely with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this project on your local machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio or VS Code
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/roll_dice.git
+cd roll_dice
+flutter pub get
+flutter run
+
